@@ -1,0 +1,5 @@
+scikit-learn
+xgboost
+mlflow==2.2.2
+dagshub
+ipykernel
